@@ -10,13 +10,13 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url:  https://ummadiviany.github.io
+baseurl:  /pgm-spring-2019/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sailinglab
+github_username: ummadiviany
 google_analytics: UA-131744305-1
 youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
 rss:  # notes rss
